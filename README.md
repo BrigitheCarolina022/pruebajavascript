@@ -7,5 +7,6 @@ cd async2687386,
 
 npm init -y - inicializar(crear) el entorno web, 
 
-npm i needle request axios- instalar dependencia
+npm i needle request axios- instalar dependencia,
 
+npm run dev -- se corre la aplicación
